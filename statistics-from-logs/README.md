@@ -69,4 +69,4 @@ Examples of output directories with log files can be found [here](./example-logs
 
 ## Feedback
 
-Any questions related to this task can be asked via creating GitHub issues for this repository.
+Any questions related to this task can be asked via [creating GitHub issues](../../../issues) for this repository.
